@@ -1,29 +1,41 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Jimmy Emiliano Corzo Gomez
+**Profesión:** Analista y desarrollador de software
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Email:** [Jimmic145@gmail.com](mailto:Jimmic145@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+## # SENA (2025 - actualidad)
+  - Tengo idea de muchos lenguajes de programacion sin embargo quiero fundamentarme en el sena reforzando y aprendiendo HTML, CSS, JS, PYTHON, SQL, MONGO DB, PROGREST SQL, REDIS, REACT, C++, TYPESCRIPT.
+## # FREELANZE _(actualidad)_
+- De manera autonoma he empleado sketchware para la creacion de aplicaciones moviles, en las que he creado muchas aplicaciones tanto de proyectos genereales como proyectos de prueba de aprendizaje para emplear en los proyectos generales o reales, entre las aplicaciones mas destacadas que he creado son:
+  **Una red social que emplea mucho tipo de tecnologia**
+  **Calculadoras trigonometricas con procedimiento**
+  **App financiera que maneja y control de un negocio en base a una serie de reglas y configuraciones**
+  Entre los aprendizajes se emplear herramientas como open bullet, silver bullet.
+### Vendedor no formal _(2018 - 2020)_
+- He trabajado en puntos de venta callejeros como vendedor no formal, ofreciendo productos en entornos dinámicos. Esta experiencia me permitió desarrollar habilidades importantes como:
+Trato directo con el público
+Comunicación efectiva
+Resolución rápida de problemas
+Manejo de dinero en efectivo y medios digitales como Nequi y Daviplata
+Organización de inventario y cálculo mental
+Además, durante este trabajo informal, apliqué conocimientos de programación para ayudar a llevar registros de ventas, calcular ingresos diarios, gestionar inventarios básicos y realizar reportes. He creado aplicaciones simples para este fin, mejorando la eficiencia del proceso manual.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
-
+### SENA _(2025 - actualidad)_
+- Aprendiz en **Analisis y desarrollo de software**
+### JUANA CAPORAL _(2024)_
+- Tecnico en cultivos agricolas.
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Responsabilidad**
+- **Liderazgo**
+- **Compromiso**
 
 ---
 
