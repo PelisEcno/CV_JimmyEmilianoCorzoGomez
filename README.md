@@ -32,6 +32,7 @@ Además, durante este trabajo informal, apliqué conocimientos de programación 
 - Aprendiz en **Analisis y desarrollo de software**
 ### JUANA CAPORAL _(2024)_
 - Tecnico en cultivos agricolas.
+- Bachiller
 ## 💡 Habilidades
 - **Responsabilidad**
 - **Liderazgo**
